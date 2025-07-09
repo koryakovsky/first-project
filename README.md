@@ -13,3 +13,11 @@ coomit 2
         'models': [KNeighborsClassifier()],
         'models__n_neighbors': range 3, 18),
         'preprocessor__num': [StandardScaler(), MinMaxScaler(), RobustScaler(), 'passthrough'],
+
+
+
+Переименование файла README
+
+Добавление Gitignore
+
+Добавление issue
